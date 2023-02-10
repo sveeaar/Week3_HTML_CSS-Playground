@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Courgette&display=swap');
+
+body {
+    background-color: whitesmoke;
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkblue;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid darkcyan;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#blue {
+    border-color: blue;
+}
+
+#green {
+    border-color: green;
+}
+
+#orange {
+    border-color: orange ;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 2rem;
+    color: darkslategray;
+}
